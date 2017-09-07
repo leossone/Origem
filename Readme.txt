@@ -1,7 +1,7 @@
 Ambiente para estudo de tecnologia.
-Ser· importante atribuir toda e qualquer alteraÁ„o junto a este documento.
+Ser√° importante atribuir toda e qualquer altera√ß√£o junto a este documento.
 
- Aqui haver„o citaÁıes sobre toda e qualquer alteraÁ„o realizada ou conhecimento adquirido.
+ Aqui haver√£o cita√ß√µes sobre toda e qualquer altera√ß√£o realizada ou conhecimento adquirido.
 
 <!DOCTYPE html>
 
@@ -9,28 +9,28 @@ Ser· importante atribuir toda e qualquer alteraÁ„o junto a este documento.
 
 
   <head>
-    <title>Revis„o Continuada</title>
+    <title>Revis√£o Continuada</title>
   </head>
   
   <body> <strong><em><h2>
-    AULA DE HTML5</h2><h3>INTRODU«√O </strong></em></h3>
+    AULA DE HTML5</h2><h3>INTRODU√á√ÉO </strong></em></h3>
   </body>
   
-  <p> A partir daqui se iniciam as aulas a respeito de HTML5 e suas possibilidades, essas caracterÌsticas poderam ser abordadas livremente em um ambiente desafiador e de aspecto pr·tico.</p>
-  <p> Vamos apontar as caracterÌsticas de cada um dos tags principais que poderam ser utilizados para desenvolvimento de uma p·gina vinculada a internet.</p>
+  <p> A partir daqui se iniciam as aulas a respeito de HTML5 e suas possibilidades, essas caracter√≠sticas poderam ser abordadas livremente em um ambiente desafiador e de aspecto pr√°tico.</p>
+  <p> Vamos apontar as caracter√≠sticas de cada um dos tags principais que poderam ser utilizados para desenvolvimento de uma p√°gina vinculada a internet.</p>
   <p><strong>Lembrando que existem diversas editores que podem ser utilizados como: <em>NOTEPAD++, BLOCO DE NOTAS, VISUALCODE E SIMILARES.</em> Eu particularmente prefiro editar a partir do notepad!</strong></p>
   
   <UL><STRONG><EM>TAGS</STRONG></EM>
   
-    <li>head = Define a ·rea reservada ao cabeÁalho.</li>
-	<li>title = Insere o TÌtulo exibido na aba de notificaÁ„o do navegador, utilizado dentro do marcador head.</li>
-	<li>body = Define o conte˙do visual a ser exibido (apresentado) pelo navegador, compreendendo textos, imagens e demais arquivos de mÌdia.</li>
+    <li>head = Define a √°rea reservada ao cabe√ßalho.</li>
+	<li>title = Insere o T√≠tulo exibido na aba de notifica√ß√£o do navegador, utilizado dentro do marcador head.</li>
+	<li>body = Define o conte√∫do visual a ser exibido (apresentado) pelo navegador, compreendendo textos, imagens e demais arquivos de m√≠dia.</li>
     <li>strong = Exibe caracteres em negrito.</li>
-	<li>em = Exibe caracteres em it·lico.</li>
-    <li>p = par·grafo.</li>
+	<li>em = Exibe caracteres em it√°lico.</li>
+    <li>p = par√°grafo.</li>
 	<li>br = Define a quebra de linha.</li>
 	<li>h1 a h6 = Definem o tamanho da fonte a ser exibido em tela.</li>
-	<li>ul = Cria uma lista n„o ordenada (unordered list).</li>
+	<li>ul = Cria uma lista n√£o ordenada (unordered list).</li>
 	<li>li = Define itens da lista.</li>
 	<li>ol = Define uma lista ordenada (ordered list).</li></ul>
 	
@@ -46,84 +46,23 @@ Ser· importante atribuir toda e qualquer alteraÁ„o junto a este documento.
 	<li>Vermelho</li>
 	</ol>
 	
-<P><strong>… possÌvel trabalhar com ambos os tipos ao mesmo tempo!</strong></p>
-<p>A partir destas aulas podemos atingir maior interaÁ„o sistÍmica e atuar com vinc˙los a diversos ambientes de programaÁ„o, inserir links que podem apontar a p·ginas relacionadas ao assunto em quest„o e similares na verdade s„o apresentadas in˙meras optativas e cabe a vocÍ fazer uma escolha ou diversas kkkkk.</p>
+<P><strong>√â poss√≠vel trabalhar com ambos os tipos ao mesmo tempo!</strong></p>
+<p>A partir destas aulas podemos atingir maior intera√ß√£o sist√™mica e atuar com vinc√∫los a diversos ambientes de programa√ß√£o, inserir links que podem apontar a p√°ginas relacionadas ao assunto em quest√£o e similares na verdade s√£o apresentadas in√∫meras optativas e cabe a voc√™ fazer uma escolha ou diversas kkkkk.</p>
 
 <a href='http://www.w3schools.com/html/default.asp'> <h3><strong>w3schools</h3></strong> </a>
-<p>No link citado acima, poderemos desvendar e assimilar o conte˙do ligado a HTML5 objetivando uma vasta ·rea profissional.</p>
+<p>No link citado acima, poderemos desvendar e assimilar o conte√∫do ligado a HTML5 objetivando uma vasta √°rea profissional.</p>
 <a href='http://www.impacta.edu.br'> <h3><strong>Impacta </h3></strong></a>
 
-<p>Podemos acessar links e demais endereÁos na net de forma din‚mica e objetiva aplicando filtros ao conte˙do exibido, permitindo que tudo fique efetivamente direcionado.</p>
+<p>Podemos acessar links e demais endere√ßos na net de forma din√¢mica e objetiva aplicando filtros ao conte√∫do exibido, permitindo que tudo fique efetivamente direcionado.</p>
 
-<p>TambÈm podemos acessar links que nos direcionam a uma imagem hospedada na internet por exemplo:
+<p>Tamb√©m podemos acessar links que nos direcionam a uma imagem hospedada na internet por exemplo:
 
 <div><br/>
 
 <img src= 'https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAi1AAAAJGI3MjIwZjg2LTY4YjMtNDE0Zi1hZTg2LTI1MzNhYzAyYzBkMQ.png'align='left'margin='10'width= '250' /><br?>
 <img src='https://jasonroell.files.wordpress.com/2017/06/artificial-intelligence-ai.jpg?w=880' align='right' margin='10'width='450'.
-<text><h4><strong><center>Vale a pena ressaltar ou mesmo salientar de que È possÌvel inserir diversas opÁıes de formataÁ„o, ligadas tanto a imagem quanto ao texto em si. Utilizando linhas simples de comando.
-Comandos simples e objetivos que podem gerar e agregar grande valor a sua page, logo tudo o que precisa ser feito È se empenhar e objetivar o crescimento e o mesmo lhe ser· possÌvel.</strong></h4> </center>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
+<text><h4><strong><center>Vale a pena ressaltar ou mesmo salientar de que √© poss√≠vel inserir diversas op√ß√µes de formata√ß√£o, ligadas tanto a imagem quanto ao texto em si. Utilizando linhas simples de comando.
+Comandos simples e objetivos que podem gerar e agregar grande valor a sua page, logo tudo o que precisa ser feito √© se empenhar e objetivar o crescimento e o mesmo lhe ser√° poss√≠vel.</strong></h4> </center>
+  
   
 </html>
