@@ -1,4 +1,7 @@
 Ambiente para estudo de tecnologia.
+Será importante atribuir toda e qualquer alteração junto a este documento.
+
+ Aqui haverão citações sobre toda e qualquer alteração realizada ou conhecimento adquirido.
 
 <!DOCTYPE html>
 
