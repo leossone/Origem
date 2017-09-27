@@ -1,0 +1,10 @@
+Faça um programa que leia um arquivo texto contendo uma lista de endereços IP e gere um outro arquivo, contendo um relatório dos endereços IP válidos e inválidos.
+O arquivo de entrada possui o seguinte formato:
+	192.168.1.64
+	192.168.1.32 
+	192.168.1.63
+	192.168.1.31
+     	192.168.1.0
+Para validar um número IP deve se verivicar se a cada 3 digitos separados pelos pontos são maiores que 0 e menores que 255.
+
+Ref: https://wiki.python.org.br/ExerciciosArquivos
